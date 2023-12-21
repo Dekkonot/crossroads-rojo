@@ -32,6 +32,5 @@
       "$path": "src/Workspace"
     }
   },
-  "emitLegacyScripts": true,
-  "syncbackRules": null
+  "emitLegacyScripts": true
 }
