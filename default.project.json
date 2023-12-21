@@ -1,35 +1,37 @@
 {
-    "name": "Classic: Crossroads",
-    "tree": {
-        "$className": "DataModel",
-        "Workspace": {
-            "$path": "src/Workspace"
-        },
-        "Lighting": {
-            "$path": "src/Lighting"
-        },
-        "ReplicatedStorage": {
-            "$path": "src/ReplicatedStorage"
-        },
-        "ServerStorage": {
-            "$path": "src/ServerStorage"
-        },
-        "ServerScriptService": {
-            "$path": "src/ServerScriptService"
-        },
-        "StarterPack": {
-            "$path": "src/StarterPack"
-        },
-        "StarterGui": {
-            "$path": "src/StarterGui"
-        },
-        "StarterPlayer": {
-            "StarterPlayerScripts": {
-                "$path": "src/StarterPlayer/StarterPlayerScripts"
-            },
-            "StarterCharacterScripts": {
-                "$path": "src/StarterPlayer/StarterCharacterScripts"
-            }
-        }
+  "name": "Classic: Crossroads",
+  "tree": {
+    "$className": "DataModel",
+    "Lighting": {
+      "$path": "src/Lighting"
+    },
+    "ReplicatedStorage": {
+      "$path": "src/ReplicatedStorage"
+    },
+    "ServerScriptService": {
+      "$path": "src/ServerScriptService"
+    },
+    "ServerStorage": {
+      "$path": "src/ServerStorage"
+    },
+    "StarterGui": {
+      "$path": "src/StarterGui"
+    },
+    "StarterPack": {
+      "$path": "src/StarterPack"
+    },
+    "StarterPlayer": {
+      "StarterCharacterScripts": {
+        "$path": "src/StarterPlayer/StarterCharacterScripts"
+      },
+      "StarterPlayerScripts": {
+        "$path": "src/StarterPlayer/StarterPlayerScripts"
+      }
+    },
+    "Workspace": {
+      "$path": "src/Workspace"
     }
+  },
+  "emitLegacyScripts": true,
+  "syncbackRules": null
 }

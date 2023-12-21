@@ -1,0 +1,11 @@
+{
+  "className": "Sky",
+  "properties": {
+    "SkyboxBk": "http://www.roblox.com/asset/?version=1&id=1013852",
+    "SkyboxLf": "http://www.roblox.com/asset/?version=1&id=1013851",
+    "SkyboxDn": "http://www.roblox.com/asset/?version=1&id=1013853",
+    "SkyboxFt": "http://www.roblox.com/asset/?version=1&id=1013850",
+    "SkyboxUp": "http://www.roblox.com/asset/?version=1&id=1013854",
+    "SkyboxRt": "http://www.roblox.com/asset/?version=1&id=1013849"
+  }
+}
