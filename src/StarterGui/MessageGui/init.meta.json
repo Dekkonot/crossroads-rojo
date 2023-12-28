@@ -1,28 +1,8 @@
 {
   "properties": {
-    "SourceAssetId": -1.0,
-    "Enabled": true,
-    "DisplayOrder": 0.0,
-    "ClipToDeviceSafeArea": true,
     "RootLocalizationTable": {
       "Ref": "00000000000000000000000000000000"
-    },
-    "DefinesCapabilities": false,
-    "SelectionGroup": false,
-    "SelectionBehaviorDown": "Escape",
-    "Capabilities": {
-      "SecurityCapabilities": 0
-    },
-    "ResetOnSpawn": true,
-    "SelectionBehaviorRight": "Escape",
-    "Tags": [],
-    "AutoLocalize": true,
-    "SelectionBehaviorUp": "Escape",
-    "SelectionBehaviorLeft": "Escape",
-    "SafeAreaCompatibility": "FullscreenExtension",
-    "Attributes": {},
-    "ZIndexBehavior": "Global",
-    "ScreenInsets": "CoreUISafeInsets"
+    }
   },
   "className": "ScreenGui"
 }

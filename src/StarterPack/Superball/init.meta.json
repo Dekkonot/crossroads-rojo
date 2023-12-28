@@ -1,13 +1,9 @@
 {
   "properties": {
-    "Tags": [],
-    "ToolTip": "",
-    "DefinesCapabilities": false,
-    "ManualActivationOnly": false,
-    "CanBeDropped": true,
-    "LevelOfDetail": "Automatic",
-    "ModelStreamingMode": "Default",
-    "NeedsPivotMigration": false,
+    "ModelMeshData": "",
+    "PrimaryPart": {
+      "Ref": "00000000000000000000000000000000"
+    },
     "WorldPivotData": {
       "OptionalCFrame": {
         "position": [
@@ -34,52 +30,7 @@
         ]
       }
     },
-    "ModelMeshSize": [
-      0.0,
-      0.0,
-      0.0
-    ],
-    "Grip": [
-      0.0,
-      0.0,
-      0.0,
-      1.0,
-      0.0,
-      0.0,
-      0.0,
-      1.0,
-      0.0,
-      0.0,
-      0.0,
-      1.0
-    ],
-    "Scale": 1.0,
-    "TextureId": "rbxasset://Textures/Superball.png",
-    "RequiresHandle": true,
-    "Capabilities": {
-      "SecurityCapabilities": 0
-    },
-    "PrimaryPart": {
-      "Ref": "00000000000000000000000000000000"
-    },
-    "SourceAssetId": -1.0,
-    "ModelMeshCFrame": [
-      0.0,
-      0.0,
-      0.0,
-      1.0,
-      0.0,
-      0.0,
-      0.0,
-      1.0,
-      0.0,
-      0.0,
-      0.0,
-      1.0
-    ],
-    "Enabled": true,
-    "ModelMeshData": "",
-    "Attributes": {}
+    "TextureId": "rbxasset://Textures/Superball.png"
   },
   "className": "Tool"
 }

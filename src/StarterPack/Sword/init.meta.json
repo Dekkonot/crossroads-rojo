@@ -1,26 +1,5 @@
 {
   "properties": {
-    "Tags": [],
-    "ModelMeshCFrame": [
-      0.0,
-      0.0,
-      0.0,
-      1.0,
-      0.0,
-      0.0,
-      0.0,
-      1.0,
-      0.0,
-      0.0,
-      0.0,
-      1.0
-    ],
-    "ModelMeshData": "",
-    "DefinesCapabilities": false,
-    "RequiresHandle": true,
-    "PrimaryPart": {
-      "Ref": "00000000000000000000000000000000"
-    },
     "Grip": [
       0.0,
       0.0,
@@ -35,14 +14,8 @@
       1.0,
       0.0
     ],
-    "ModelMeshSize": [
-      0.0,
-      0.0,
-      0.0
-    ],
-    "ManualActivationOnly": false,
-    "NeedsPivotMigration": false,
-    "SourceAssetId": -1.0,
+    "ModelMeshData": "",
+    "TextureId": "rbxasset://Textures/Sword128.png",
     "WorldPivotData": {
       "OptionalCFrame": {
         "position": [
@@ -69,17 +42,9 @@
         ]
       }
     },
-    "TextureId": "rbxasset://Textures/Sword128.png",
-    "LevelOfDetail": "Automatic",
-    "ToolTip": "",
-    "Capabilities": {
-      "SecurityCapabilities": 0
-    },
-    "ModelStreamingMode": "Default",
-    "Enabled": true,
-    "Scale": 1.0,
-    "CanBeDropped": true,
-    "Attributes": {}
+    "PrimaryPart": {
+      "Ref": "00000000000000000000000000000000"
+    }
   },
   "className": "Tool"
 }

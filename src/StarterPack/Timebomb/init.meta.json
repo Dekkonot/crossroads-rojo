@@ -1,6 +1,21 @@
 {
   "properties": {
-    "SourceAssetId": -1.0,
+    "Grip": [
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      -1.0,
+      0.0,
+      1.0,
+      0.0
+    ],
+    "ModelMeshData": "",
+    "TextureId": "rbxasset://Textures/Bomb.png",
     "WorldPivotData": {
       "OptionalCFrame": {
         "position": [
@@ -27,59 +42,9 @@
         ]
       }
     },
-    "RequiresHandle": true,
-    "ModelStreamingMode": "Default",
-    "TextureId": "rbxasset://Textures/Bomb.png",
-    "Tags": [],
-    "ManualActivationOnly": false,
-    "ToolTip": "",
-    "CanBeDropped": true,
-    "Scale": 1.0,
-    "Grip": [
-      0.0,
-      0.0,
-      0.0,
-      1.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      -1.0,
-      0.0,
-      1.0,
-      0.0
-    ],
-    "Enabled": true,
-    "Capabilities": {
-      "SecurityCapabilities": 0
-    },
-    "ModelMeshCFrame": [
-      0.0,
-      0.0,
-      0.0,
-      1.0,
-      0.0,
-      0.0,
-      0.0,
-      1.0,
-      0.0,
-      0.0,
-      0.0,
-      1.0
-    ],
-    "ModelMeshData": "",
-    "DefinesCapabilities": false,
     "PrimaryPart": {
       "Ref": "00000000000000000000000000000000"
-    },
-    "LevelOfDetail": "Automatic",
-    "NeedsPivotMigration": false,
-    "Attributes": {},
-    "ModelMeshSize": [
-      0.0,
-      0.0,
-      0.0
-    ]
+    }
   },
   "className": "Tool"
 }

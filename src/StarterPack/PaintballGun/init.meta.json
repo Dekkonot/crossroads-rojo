@@ -1,54 +1,9 @@
 {
   "properties": {
-    "CanBeDropped": true,
-    "Enabled": true,
-    "ToolTip": "",
-    "LevelOfDetail": "Automatic",
-    "RequiresHandle": true,
-    "ModelMeshData": "",
-    "DefinesCapabilities": false,
-    "Tags": [],
-    "Scale": 1.0,
-    "Attributes": {},
-    "ModelMeshCFrame": [
-      0.0,
-      0.0,
-      0.0,
-      1.0,
-      0.0,
-      0.0,
-      0.0,
-      1.0,
-      0.0,
-      0.0,
-      0.0,
-      1.0
-    ],
-    "ManualActivationOnly": false,
-    "Grip": [
-      -0.4000000059604645,
-      -0.5,
-      -0.07000000029802322,
-      0.0,
-      0.0,
-      -1.0,
-      0.0,
-      1.0,
-      0.0,
-      1.0,
-      0.0,
-      0.0
-    ],
-    "ModelStreamingMode": "Default",
     "TextureId": "rbxasset://Textures/PaintballIcon.png",
-    "Capabilities": {
-      "SecurityCapabilities": 0
+    "PrimaryPart": {
+      "Ref": "00000000000000000000000000000000"
     },
-    "ModelMeshSize": [
-      0.0,
-      0.0,
-      0.0
-    ],
     "WorldPivotData": {
       "OptionalCFrame": {
         "position": [
@@ -75,11 +30,21 @@
         ]
       }
     },
-    "NeedsPivotMigration": false,
-    "SourceAssetId": -1.0,
-    "PrimaryPart": {
-      "Ref": "00000000000000000000000000000000"
-    }
+    "Grip": [
+      -0.4000000059604645,
+      -0.5,
+      -0.07000000029802322,
+      0.0,
+      0.0,
+      -1.0,
+      0.0,
+      1.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0
+    ],
+    "ModelMeshData": ""
   },
   "className": "Tool"
 }
