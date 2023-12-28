@@ -1,5 +1,6 @@
 {
   "properties": {
+    "TextureId": "rbxasset://Textures/PaintballIcon.png",
     "Grip": [
       -0.4000000059604645,
       -0.5,
@@ -39,8 +40,7 @@
           ]
         ]
       }
-    },
-    "TextureId": "rbxasset://Textures/PaintballIcon.png"
+    }
   },
   "className": "Tool"
 }

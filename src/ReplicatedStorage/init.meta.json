@@ -1,6 +1,0 @@
-{
-  "properties": {
-    "Source": "local HandleReload = {}\n\nlocal TweenService = game:GetService(\"TweenService\")\nlocal Gui = script:WaitForChild(\"ReloadGui\")\n\nlocal Player = game.Players.LocalPlayer\nlocal PlayerGui = Player:WaitForChild(\"PlayerGui\")\n\nfunction HandleReload.new(Tool, ReloadTime)\n\tlocal Character = Player.Character\n\tlocal myScreenGui = Gui:Clone()\n\tlocal AncestryConnection = Tool.AncestryChanged:Connect(function(old, new)\n\t\tmyScreenGui.Enabled = new == Character\n\tend)\n\tmyScreenGui.Parent = PlayerGui\n\tlocal myTweenInfo = TweenInfo.new(ReloadTime, Enum.EasingStyle.Linear)\n\tlocal myTween = TweenService:Create(myScreenGui:FindFirstChild(\"ProgressFrame\", true), myTweenInfo, {Size = UDim2.new(1, 0, 1, 0)})\n\tmyTween:Play()\n\tmyTween.Completed:connect(function()\n\t\t--could be flashier\n\t\tmyScreenGui:Destroy()\n\t\tAncestryConnection:Disconnect()\n\tend)\nend\n\n\n\n\n\n\n\nreturn HandleReload"
-  },
-  "className": "ModuleScript"
-}

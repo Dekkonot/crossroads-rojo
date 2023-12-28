@@ -7,13 +7,13 @@
         60000.0
       ]
     },
+    "SoundId": "rbxasset://sounds/collide.wav",
+    "Volume": 1.0,
     "LoopRegion": {
       "NumberRange": [
         0.0,
         60000.0
       ]
-    },
-    "SoundId": "rbxasset://sounds/collide.wav",
-    "Volume": 1.0
+    }
   }
 }
