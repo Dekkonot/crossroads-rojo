@@ -1,6 +1,19 @@
 {
   "properties": {
-    "TextureId": "rbxasset://Textures/Wall.png",
+    "Grip": [
+      0.0,
+      -1.2999999523162842,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ],
     "WorldPivotData": {
       "OptionalCFrame": {
         "position": [
@@ -27,24 +40,7 @@
         ]
       }
     },
-    "ModelMeshData": "",
-    "PrimaryPart": {
-      "Ref": "00000000000000000000000000000000"
-    },
-    "Grip": [
-      0.0,
-      -1.2999999523162842,
-      0.0,
-      1.0,
-      0.0,
-      0.0,
-      0.0,
-      1.0,
-      0.0,
-      0.0,
-      0.0,
-      1.0
-    ]
+    "TextureId": "rbxasset://Textures/Wall.png"
   },
   "className": "Tool"
 }

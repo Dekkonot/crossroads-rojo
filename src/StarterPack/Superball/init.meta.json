@@ -1,9 +1,6 @@
 {
   "properties": {
-    "ModelMeshData": "",
-    "PrimaryPart": {
-      "Ref": "00000000000000000000000000000000"
-    },
+    "TextureId": "rbxasset://Textures/Superball.png",
     "WorldPivotData": {
       "OptionalCFrame": {
         "position": [
@@ -29,8 +26,7 @@
           ]
         ]
       }
-    },
-    "TextureId": "rbxasset://Textures/Superball.png"
+    }
   },
   "className": "Tool"
 }

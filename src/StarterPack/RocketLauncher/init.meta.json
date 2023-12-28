@@ -1,5 +1,20 @@
 {
   "properties": {
+    "TextureId": "rbxasset://Textures/Rocket.png",
+    "Grip": [
+      0.699999988079071,
+      0.0,
+      -0.5,
+      0.0,
+      0.0,
+      -1.0,
+      -1.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0
+    ],
     "WorldPivotData": {
       "OptionalCFrame": {
         "position": [
@@ -25,25 +40,6 @@
           ]
         ]
       }
-    },
-    "ModelMeshData": "",
-    "Grip": [
-      0.699999988079071,
-      0.0,
-      -0.5,
-      0.0,
-      0.0,
-      -1.0,
-      -1.0,
-      0.0,
-      0.0,
-      0.0,
-      1.0,
-      0.0
-    ],
-    "TextureId": "rbxasset://Textures/Rocket.png",
-    "PrimaryPart": {
-      "Ref": "00000000000000000000000000000000"
     }
   },
   "className": "Tool"

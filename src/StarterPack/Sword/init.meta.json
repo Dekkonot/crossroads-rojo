@@ -14,8 +14,6 @@
       1.0,
       0.0
     ],
-    "ModelMeshData": "",
-    "TextureId": "rbxasset://Textures/Sword128.png",
     "WorldPivotData": {
       "OptionalCFrame": {
         "position": [
@@ -42,9 +40,7 @@
         ]
       }
     },
-    "PrimaryPart": {
-      "Ref": "00000000000000000000000000000000"
-    }
+    "TextureId": "rbxasset://Textures/Sword128.png"
   },
   "className": "Tool"
 }

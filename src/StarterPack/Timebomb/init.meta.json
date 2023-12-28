@@ -14,7 +14,6 @@
       1.0,
       0.0
     ],
-    "ModelMeshData": "",
     "TextureId": "rbxasset://Textures/Bomb.png",
     "WorldPivotData": {
       "OptionalCFrame": {
@@ -41,9 +40,6 @@
           ]
         ]
       }
-    },
-    "PrimaryPart": {
-      "Ref": "00000000000000000000000000000000"
     }
   },
   "className": "Tool"

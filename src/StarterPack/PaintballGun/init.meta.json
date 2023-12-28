@@ -1,9 +1,19 @@
 {
   "properties": {
-    "TextureId": "rbxasset://Textures/PaintballIcon.png",
-    "PrimaryPart": {
-      "Ref": "00000000000000000000000000000000"
-    },
+    "Grip": [
+      -0.4000000059604645,
+      -0.5,
+      -0.07000000029802322,
+      0.0,
+      0.0,
+      -1.0,
+      0.0,
+      1.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0
+    ],
     "WorldPivotData": {
       "OptionalCFrame": {
         "position": [
@@ -30,21 +40,7 @@
         ]
       }
     },
-    "Grip": [
-      -0.4000000059604645,
-      -0.5,
-      -0.07000000029802322,
-      0.0,
-      0.0,
-      -1.0,
-      0.0,
-      1.0,
-      0.0,
-      1.0,
-      0.0,
-      0.0
-    ],
-    "ModelMeshData": ""
+    "TextureId": "rbxasset://Textures/PaintballIcon.png"
   },
   "className": "Tool"
 }
