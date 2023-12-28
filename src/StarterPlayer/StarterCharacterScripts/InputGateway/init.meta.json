@@ -1,0 +1,11 @@
+{
+  "properties": {
+    "SourceAssetId": -1.0,
+    "DefinesCapabilities": false,
+    "Attributes": {},
+    "Tags": [],
+    "Capabilities": {
+      "SecurityCapabilities": 0
+    }
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "properties": {
+    "ToolTip": "",
+    "ManualActivationOnly": false,
+    "LevelOfDetail": "Automatic",
+    "DefinesCapabilities": false,
+    "ModelMeshCFrame": [
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "ModelStreamingMode": "Default",
+    "WorldPivotData": {
+      "OptionalCFrame": {
+        "position": [
+          -11.820006,
+          1.619986,
+          63.570023
+        ],
+        "orientation": [
+          [
+            1.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.00006301701,
+            1.0000002
+          ],
+          [
+            0.0,
+            -1.0000002,
+            0.00006301701
+          ]
+        ]
+      }
+    },
+    "Scale": 1.0,
+    "Grip": [
+      0.699999988079071,
+      0.0,
+      -0.5,
+      0.0,
+      0.0,
+      -1.0,
+      -1.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0
+    ],
+    "NeedsPivotMigration": false,
+    "Capabilities": {
+      "SecurityCapabilities": 0
+    },
+    "Tags": [],
+    "Enabled": true,
+    "RequiresHandle": true,
+    "SourceAssetId": -1.0,
+    "PrimaryPart": {
+      "Ref": "00000000000000000000000000000000"
+    },
+    "CanBeDropped": true,
+    "Attributes": {},
+    "ModelMeshData": "",
+    "ModelMeshSize": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "TextureId": "rbxasset://Textures/Rocket.png"
+  },
+  "className": "Tool"
+}

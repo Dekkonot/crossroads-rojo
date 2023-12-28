@@ -1,0 +1,85 @@
+{
+  "properties": {
+    "NeedsPivotMigration": false,
+    "DefinesCapabilities": false,
+    "CanBeDropped": true,
+    "Attributes": {},
+    "Tags": [],
+    "ModelMeshSize": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "Grip": [
+      0.0,
+      -0.699999988079071,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "SourceAssetId": -1.0,
+    "ManualActivationOnly": false,
+    "Scale": 1.0,
+    "ModelStreamingMode": "Default",
+    "ModelMeshCFrame": [
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "Enabled": true,
+    "RequiresHandle": true,
+    "WorldPivotData": {
+      "OptionalCFrame": {
+        "position": [
+          -6.820068,
+          3.219636,
+          34.070084
+        ],
+        "orientation": [
+          [
+            1.0,
+            0.0,
+            -0.0000055450237
+          ],
+          [
+            0.0,
+            1.0,
+            0.0
+          ],
+          [
+            0.0000055450237,
+            0.0,
+            1.0
+          ]
+        ]
+      }
+    },
+    "Capabilities": {
+      "SecurityCapabilities": 0
+    },
+    "ModelMeshData": "",
+    "TextureId": "rbxasset://Textures/Slingshot.png",
+    "PrimaryPart": {
+      "Ref": "00000000000000000000000000000000"
+    },
+    "LevelOfDetail": "Automatic",
+    "ToolTip": ""
+  },
+  "className": "Tool"
+}

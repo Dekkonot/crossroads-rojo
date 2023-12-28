@@ -1,0 +1,85 @@
+{
+  "properties": {
+    "Capabilities": {
+      "SecurityCapabilities": 0
+    },
+    "Attributes": {},
+    "CanBeDropped": true,
+    "SourceAssetId": -1.0,
+    "Enabled": true,
+    "ModelMeshCFrame": [
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "RequiresHandle": true,
+    "ManualActivationOnly": false,
+    "PrimaryPart": {
+      "Ref": "00000000000000000000000000000000"
+    },
+    "TextureId": "rbxasset://Textures/Wall.png",
+    "WorldPivotData": {
+      "OptionalCFrame": {
+        "position": [
+          24.679993,
+          2.519602,
+          46.37001
+        ],
+        "orientation": [
+          [
+            1.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0
+          ],
+          [
+            0.0,
+            -1.0,
+            0.0
+          ]
+        ]
+      }
+    },
+    "Tags": [],
+    "Grip": [
+      0.0,
+      -1.2999999523162842,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "Scale": 1.0,
+    "ModelStreamingMode": "Default",
+    "ModelMeshData": "",
+    "DefinesCapabilities": false,
+    "ToolTip": "",
+    "LevelOfDetail": "Automatic",
+    "ModelMeshSize": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NeedsPivotMigration": false
+  },
+  "className": "Tool"
+}
