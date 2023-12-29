@@ -1,5 +1,20 @@
 {
   "properties": {
+    "Grip": [
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      -1.0,
+      0.0,
+      1.0,
+      0.0
+    ],
+    "TextureId": "rbxasset://Textures/Bomb.png",
     "WorldPivotData": {
       "OptionalCFrame": {
         "position": [
@@ -25,22 +40,7 @@
           ]
         ]
       }
-    },
-    "TextureId": "rbxasset://Textures/Bomb.png",
-    "Grip": [
-      0.0,
-      0.0,
-      0.0,
-      1.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      -1.0,
-      0.0,
-      1.0,
-      0.0
-    ]
+    }
   },
   "className": "Tool"
 }

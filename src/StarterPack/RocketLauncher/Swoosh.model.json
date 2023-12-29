@@ -1,20 +1,20 @@
 {
   "className": "Sound",
   "properties": {
-    "PlaybackRegion": {
-      "NumberRange": [
-        0.0,
-        60000.0
-      ]
-    },
-    "Looped": true,
-    "Volume": 0.699999988079071,
     "LoopRegion": {
       "NumberRange": [
         0.0,
         60000.0
       ]
     },
-    "SoundId": "rbxasset://sounds/Rocket whoosh 01.wav"
+    "Looped": true,
+    "PlaybackRegion": {
+      "NumberRange": [
+        0.0,
+        60000.0
+      ]
+    },
+    "SoundId": "rbxasset://sounds/Rocket whoosh 01.wav",
+    "Volume": 0.699999988079071
   }
 }

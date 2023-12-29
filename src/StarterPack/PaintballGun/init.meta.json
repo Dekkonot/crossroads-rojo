@@ -1,6 +1,5 @@
 {
   "properties": {
-    "TextureId": "rbxasset://Textures/PaintballIcon.png",
     "Grip": [
       -0.4000000059604645,
       -0.5,
@@ -15,6 +14,7 @@
       0.0,
       0.0
     ],
+    "TextureId": "rbxasset://Textures/PaintballIcon.png",
     "WorldPivotData": {
       "OptionalCFrame": {
         "position": [

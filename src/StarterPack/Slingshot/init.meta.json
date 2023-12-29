@@ -1,5 +1,20 @@
 {
   "properties": {
+    "Grip": [
+      0.0,
+      -0.699999988079071,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "TextureId": "rbxasset://Textures/Slingshot.png",
     "WorldPivotData": {
       "OptionalCFrame": {
         "position": [
@@ -25,22 +40,7 @@
           ]
         ]
       }
-    },
-    "Grip": [
-      0.0,
-      -0.699999988079071,
-      0.0,
-      1.0,
-      0.0,
-      0.0,
-      0.0,
-      1.0,
-      0.0,
-      0.0,
-      0.0,
-      1.0
-    ],
-    "TextureId": "rbxasset://Textures/Slingshot.png"
+    }
   },
   "className": "Tool"
 }
