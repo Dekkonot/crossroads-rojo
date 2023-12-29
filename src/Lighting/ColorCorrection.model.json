@@ -1,8 +1,8 @@
 {
   "className": "ColorCorrectionEffect",
   "properties": {
-    "Saturation": 0.05000000074505806,
     "Contrast": 0.02500000037252903,
+    "Saturation": 0.05000000074505806,
     "TintColor": [
       0.9647059440612793,
       0.9843137860298157,

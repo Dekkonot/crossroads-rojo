@@ -1,11 +1,11 @@
 {
   "className": "Sky",
   "properties": {
-    "SkyboxUp": "http://www.roblox.com/asset/?version=1&id=1013854",
-    "SkyboxFt": "http://www.roblox.com/asset/?version=1&id=1013850",
-    "SkyboxRt": "http://www.roblox.com/asset/?version=1&id=1013849",
     "SkyboxBk": "http://www.roblox.com/asset/?version=1&id=1013852",
     "SkyboxDn": "http://www.roblox.com/asset/?version=1&id=1013853",
-    "SkyboxLf": "http://www.roblox.com/asset/?version=1&id=1013851"
+    "SkyboxFt": "http://www.roblox.com/asset/?version=1&id=1013850",
+    "SkyboxLf": "http://www.roblox.com/asset/?version=1&id=1013851",
+    "SkyboxRt": "http://www.roblox.com/asset/?version=1&id=1013849",
+    "SkyboxUp": "http://www.roblox.com/asset/?version=1&id=1013854"
   }
 }
