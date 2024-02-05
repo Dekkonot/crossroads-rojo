@@ -3,6 +3,36 @@
   "tree": {
     "$className": "DataModel",
     "Lighting": {
+      "$properties": {
+        "Ambient": [
+          0.1098039299249649,
+          0.0941176563501358,
+          0.05490196496248245
+        ],
+        "Brightness": 1.0499999523162842,
+        "ColorShift_Bottom": [
+          0.4862745404243469,
+          0.48235297203063965,
+          0.43529415130615234
+        ],
+        "ColorShift_Top": [
+          0.1764705926179886,
+          0.15294118225574493,
+          0.11372549831867218
+        ],
+        "FogColor": [
+          0.7529412508010864,
+          0.7529412508010864,
+          0.7529412508010864
+        ],
+        "GlobalShadows": true,
+        "OutdoorAmbient": [
+          0.49803924560546875,
+          0.49803924560546875,
+          0.49803924560546875
+        ],
+        "TimeOfDay": "08:00:00"
+      },
       "$path": "src/Lighting"
     },
     "ReplicatedStorage": {
@@ -29,6 +59,35 @@
       }
     },
     "Workspace": {
+      "$properties": {
+        "StreamingEnabled": true,
+        "WorldPivotData": {
+          "OptionalCFrame": {
+            "position": [
+              -0.0000076293945,
+              0.0000038146973,
+              0.000015258789
+            ],
+            "orientation": [
+              [
+                1.0,
+                0.0,
+                0.0
+              ],
+              [
+                0.0,
+                1.0,
+                0.0
+              ],
+              [
+                0.0,
+                0.0,
+                1.0
+              ]
+            ]
+          }
+        }
+      },
       "$path": "src/Workspace"
     }
   },
