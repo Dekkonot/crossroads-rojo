@@ -60,6 +60,12 @@
     },
     "Workspace": {
       "$properties": {
+        "CSGAsyncDynamicCollision": {
+          "Enum": 0
+        },
+        "DecreaseMinimumPartDensityMode": {
+          "Enum": 0
+        },
         "StreamingEnabled": true,
         "WorldPivotData": {
           "OptionalCFrame": {
@@ -87,6 +93,10 @@
             ]
           }
         }
+      },
+      "$attributes": {
+        "Rojo_Target_CurrentCamera": "1138403557e7cb4ae7cfd8176d5672c1",
+        "Rojo_Target_PrimaryPart": "a6d4629727484a129c21865e5f75b56a"
       },
       "$path": "src/Workspace"
     }
