@@ -56,6 +56,11 @@
       },
       "StarterPlayerScripts": {
         "$path": "src/StarterPlayer/StarterPlayerScripts"
+      },
+      "$properties": {
+        "AvatarJointUpgrade_SerializedRollout": {
+          "Enum": 0
+        }
       }
     },
     "Workspace": {
@@ -67,6 +72,9 @@
           "Enum": 0
         },
         "StreamingEnabled": true,
+        "TouchEventsUseCollisionGroups": {
+          "Enum": 0
+        },
         "WorldPivotData": {
           "OptionalCFrame": {
             "position": [
@@ -95,8 +103,8 @@
         }
       },
       "$attributes": {
-        "Rojo_Target_CurrentCamera": "51b55e4bdebfe0c106a0b7a600000366",
-        "Rojo_Target_PrimaryPart": "51b55e4bdebfe0c106a0b7a600000a6b"
+        "Rojo_Target_CurrentCamera": "4f693aef0118c79d074963df00000373",
+        "Rojo_Target_PrimaryPart": "4f693aef0118c79d074963df00000a77"
       },
       "$path": "src/Workspace"
     }
