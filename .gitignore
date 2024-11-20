@@ -2,3 +2,5 @@ sourcemap.json
 
 *.rbxl
 *.rbxl.lock
+
+.vscode/**
