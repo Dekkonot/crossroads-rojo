@@ -18,7 +18,7 @@ rojo build -o crossroads.rbxl
 
 ## Syncback
 
-To run syncback over top of this, you need a version that has syncback (currently exclusive to Uplift Games' fork, linked above). Then, you simply run the following:
+To run syncback over top of this, you need a version that has syncback (any version since 7.7.0). Then, you simply run the following:
 
 ```bash
 rojo syncback --input crossroads.rbxl
