@@ -14,7 +14,7 @@
       0.0,
       1.0
     ],
-    "TextureId": "rbxasset://Textures/Slingshot.png",
+    "TextureContent": "rbxasset://Textures/Slingshot.png",
     "WorldPivotData": {
       "OptionalCFrame": {
         "position": [

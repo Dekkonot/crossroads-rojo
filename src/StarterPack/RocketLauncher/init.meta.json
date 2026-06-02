@@ -14,7 +14,7 @@
       1.0,
       0.0
     ],
-    "TextureId": "rbxasset://Textures/Rocket.png",
+    "TextureContent": "rbxasset://Textures/Rocket.png",
     "WorldPivotData": {
       "OptionalCFrame": {
         "position": [

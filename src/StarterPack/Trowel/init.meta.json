@@ -14,7 +14,7 @@
       0.0,
       1.0
     ],
-    "TextureId": "rbxasset://Textures/Wall.png",
+    "TextureContent": "rbxasset://Textures/Wall.png",
     "WorldPivotData": {
       "OptionalCFrame": {
         "position": [

@@ -14,7 +14,7 @@
       1.0,
       0.0
     ],
-    "TextureId": "rbxasset://Textures/Sword128.png",
+    "TextureContent": "rbxasset://Textures/Sword128.png",
     "WorldPivotData": {
       "OptionalCFrame": {
         "position": [

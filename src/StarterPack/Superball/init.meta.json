@@ -1,6 +1,6 @@
 {
   "properties": {
-    "TextureId": "rbxasset://Textures/Superball.png",
+    "TextureContent": "rbxasset://Textures/Superball.png",
     "WorldPivotData": {
       "OptionalCFrame": {
         "position": [

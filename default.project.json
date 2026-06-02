@@ -9,7 +9,6 @@
           0.0941176563501358,
           0.05490196496248245
         ],
-        "Brightness": 1.0499999523162842,
         "ColorShift_Bottom": [
           0.4862745404243469,
           0.48235297203063965,
@@ -45,6 +44,11 @@
       "$path": "src/ServerStorage"
     },
     "StarterGui": {
+      "$properties": {
+        "ClipsDescendantsSupportsRotation": {
+          "Enum": 0
+        }
+      },
       "$path": "src/StarterGui"
     },
     "StarterPack": {
@@ -56,23 +60,24 @@
       },
       "StarterPlayerScripts": {
         "$path": "src/StarterPlayer/StarterPlayerScripts"
-      },
-      "$properties": {
-        "AvatarJointUpgrade_SerializedRollout": {
-          "Enum": 0
-        }
       }
     },
     "Workspace": {
       "$properties": {
-        "CSGAsyncDynamicCollision": {
+        "EnableSLIMAvatars": {
           "Enum": 0
         },
-        "DecreaseMinimumPartDensityMode": {
+        "ImprovedAnimationConstraint": {
+          "Enum": 0
+        },
+        "LayeredClothingCacheOptimizations": {
+          "Enum": 0
+        },
+        "MeshStreamingAndImprovedLods": {
           "Enum": 0
         },
         "StreamingEnabled": true,
-        "TouchEventsUseCollisionGroups": {
+        "ValidateEnabledProximityPrompt": {
           "Enum": 0
         },
         "WorldPivotData": {
@@ -103,11 +108,10 @@
         }
       },
       "$attributes": {
-        "Rojo_Target_CurrentCamera": "4f693aef0118c79d074963df00000373",
-        "Rojo_Target_PrimaryPart": "4f693aef0118c79d074963df00000a77"
+        "Rojo_Target_CurrentCamera": "4d49a2e7d7e268eb0a2fb9de000003b0",
+        "Rojo_Target_PrimaryPart": "4d49a2e7d7e268eb0a2fb9de00000ab6"
       },
       "$path": "src/Workspace"
     }
-  },
-  "emitLegacyScripts": true
+  }
 }
